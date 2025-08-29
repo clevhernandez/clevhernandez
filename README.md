@@ -1,16 +1,16 @@
-## Hi there 👋
-
-<!--
-**clevhernandez/clevhernandez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 👨‍💻 Clever Jherson Hernande Garay
+**Estudiante de Ingeniería de Sistemas** | **Universidad Nacional de Cajamarca**  
+---
+## 💼 Perfil Profesional
+Soy un estudiante de Ingeniería de Sistemas apasionado por la innovación tecnológica y el desarrollo de soluciones digitales.  
+Mi objetivo es potenciar mis habilidades en programación y bases de datos para contribuir a proyectos con impacto real en el mundo empresarial y académico.  
+---
+## 🛠 Competencias en Desarrollo
+- Java  
+- C#  
+- HTML5  
+- CSS  
+- SQL  
+---
+## 🚀 Visión
+Impulsar mi crecimiento profesional mediante la creación de proyectos eficientes, escalables y alineados a las tendencias tecnológicas actuales.
